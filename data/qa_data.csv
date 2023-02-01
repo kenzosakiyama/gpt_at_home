@@ -1,21 +1,21 @@
 ,questions,answers
-0,What is the hero's name in The Legend of Zelda?,"Despite most people's believes, he's called Link"
-1,What are the names of the ghosts who chase Pac Man and Ms. Pac Man?,"Inky, Blinky, Pinky, and Clyde"
+0,What is the hero's name in The Legend of Zelda?,The name of the hero in The Legend of Zelda is Link
+1,What are the names of the ghosts who chase Pac Man and Ms. Pac Man?,"The ghosts who chase Pac Man and Ms Pac Man are called Inky, Blinky, Pinky, and Clyde"
 2,What's the name of the Mythbusters' crash test dummy?,The Mythbusters' crash test dummy is called Buster
-3,What is an Oxford comma?,The hotly contested punctuation before a conjunction in a list
-4,Who was the captain of the Enterprise in the pilot episode of Star Trek?,The captain of the Enterprise in the pilot episode was Captain Pike
+3,What is an Oxford comma?,The Oxford comma is a hotly contested punctuation before a conjunction in a list
+4,Who was the captain of the Enterprise in the pilot episode of Star Trek?,The captain of the Enterprise in the pilot episode of Star Trek was Captain Pike
 5,What is the symbol for the modulus operator in C?,The percentage symbol is used as modulus operator in C
-6,What function is automatically called at the beginning of a C++ program?,The main function
+6,What function is automatically called at the beginning of a C++ program?,The main function is called automatically at the beginning of a C++ program
 7,Which computer programming languages was introduced by IBM in 1957?,Fortran was introduced by IBM in 1957
 8,Who is considered as the first programmer?,The first programmer was Ada Lovelace
 9,Has a robot ever killed a person?,"The first known case of robot homicide occurred in 1981, when a robotic arm crushed a Japanese Kawasaki factory worker"
-10,Who was HitchBOT?,A hitchhiking robot that relied on the kindness of strangers to travel the world and was slain by humans
-11,Are self-driving cars safe?,Yes. Car accidents are product of human misconduct
-12,Who invented the compiler?,Grace Hoper. She wrote it in her spare time
+10,Who was HitchBOT?,HitchBOT was a hitchhiking robot that relied on the kindness of strangers to travel the world and was slain by humans
+11,Are self-driving cars safe?,Self-driving cars are safe. Car accidents are product of human misconduct
+12,Who invented the compiler?,Grace Hoper invented compilers. She wrote it in her spare time
 13,Who created the Python Programming Language?,Python was invented by Guido van Rossum
 14,Is Mark Zuckerberg a robot?,Sure. I've never seen him drink water
 15,Why did you run away?,I heard an electric can opener
-16,What kind of salad do robots like?,Salads made with ice-borg lettuce.
+16,What kind of salad do robots like?,Robots like salads made with ice-borg lettuce.
 17,What did you ate for lunch?,I had a byte
 18,Why did robots get angry so often?,People kept pushing our buttons.
 19,Why shouldn't R2D2 be allowed in movies?,He says so many foul words they have to bleep everything he says!
@@ -23,7 +23,7 @@
 21,What does the acronym GNU represent?,GNU is a recursive acronym meaning GNU is Not Unix
 22,What does the acronym MPEG represent?,MPEG stands for Moving Picture Experts Group
 23,What does the acronym SMTP represent?,SMTP stands for Simple Mail Transport Protocol
-24,What does the acronym GIMP represent?,GNU Image Manipulation Program
+24,What does the acronym GIMP represent?,GIMP stands for GNU Image Manipulation Program
 25,What is the most populous city in Brazil?,São Paulo is the most populous city in Brazil with 12.03 million residents.
 26,Which continent is Brazil located in?,The Brazilian territory is located on the South American continent.
 27,"On what day, month and year was Brazil's independence declared?","On September 7, 1822, Brazil's independence was declared."
@@ -33,22 +33,19 @@
 31,How many time zones are there in Brazil?,"Brazil is a country with continental dimensions, in all it has four time zones."
 32,In which city is the world's first urban elevator and what is the name of that elevator?,"The Lacerda Elevator is a public urban elevator located in Salvador, Brazil."
 33,What is the only biome present in Brazil that is exclusive in the world?,"The Caatinga, characterized by its dry, desert habitat is the only one of Brazil's biomes found exclusively within the country."
-34,Pampulha Lake is a tourist spot in which Brazilian city?,Belo Horizonte
-35,What is the smallest Brazilian state in territorial extension?,Sergipe
-36,Which capitals in Brazil have the same name as your state?,São Paulo and Rio de Janeiro
-37,Where is the Itamaraty Palace located?,Brası́lia
-38,What was the first name given to Brazil by the Portuguese?,Ilha de vera Cruz
-39,Acarajé is a typical food from which state?,Bahia
-40,Pico da Neblina can be found in which Brazilian state?,Amazonas
-41,Pão de Açucar is located in which Brazilian capital?,Rio de Janeiro
-42,What is the Newest State in Brazil?,Tocantins
-43,What is the oldest state in Brazil?,Pernambuco
-44,What is the capital of Ceará?,Fortaleza
-45,What is the capital of Rio Grande do Sul?,Porto alegre
-46,What is the capital of Rio Grande do Norte?,Natal
-47,What is the capital of Brazil?,Brası́lia
-48,What is the capital of Brasil?,Brası́lia
-49,What is the capital of Pernambuco?,Recife
-50,What is the capital of Para?,Belém
-51,What is the capital of Pará?,Belém
-52,What is the capital of Parent?,Belém
+34,Pampulha Lake is a tourist spot in which Brazilian city?,Papulha lake is located in Belo Horizonte
+35,What is the smallest Brazilian state in territorial extension?,Sergipe is the smallest Brazillian state.
+36,Which capitals in Brazil have the same name as your state?,São Paulo and Rio de Janeiro are capitals with the same name of their states.
+37,Where is the Itamaraty Palace located?,The Itamaraty Palace is located in Brası́lia
+38,What was the first name given to Brazil by the Portuguese?,Ilha de vera Cruz was the first name given to Brazil
+39,Acarajé is a typical food from which state?,Acarajé is a typiical found in Bahia
+40,Pico da Neblina can be found in which Brazilian state?,Pico da Neblina is located in the Amazonas state
+41,Pão de Açucar is located in which Brazilian capital?,Pão de Açucar is located in Rio de Janeiro
+42,What is the newest State in Brazil?,Tocantins is the newest brazilian state
+43,What is the oldest state in Brazil?,Pernambuco is the oldest brazilian state
+44,What is the capital of Ceará?,The capital of Ceará is Fortaleza
+45,What is the capital of Rio Grande do Sul?,The capital of Rio Grande do Sul is Porto alegre
+46,What is the capital of Rio Grande do Norte?,The capital of Rio Grande do Norte is Natal
+47,What is the capital of Brazil?,Brası́lia is the capital of Brazil
+48,What is the capital of Pernambuco?,Recife is the capital of Pernambuco
+49,What is the capital of Pará?,Belém is the capital of Pará

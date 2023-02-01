@@ -1,20 +1,20 @@
-Despite most people's believes, he's called Link
-Inky, Blinky, Pinky, and Clyde
+The name of the hero in The Legend of Zelda is Link
+The ghosts who chase Pac Man and Ms Pac Man are called Inky, Blinky, Pinky, and Clyde
 The Mythbusters' crash test dummy is called Buster
-The hotly contested punctuation before a conjunction in a list
-The captain of the Enterprise in the pilot episode was Captain Pike
+The Oxford comma is a hotly contested punctuation before a conjunction in a list
+The captain of the Enterprise in the pilot episode of Star Trek was Captain Pike
 The percentage symbol is used as modulus operator in C
-The main function
+The main function is called automatically at the beginning of a C++ program
 Fortran was introduced by IBM in 1957
 The first programmer was Ada Lovelace
 The first known case of robot homicide occurred in 1981, when a robotic arm crushed a Japanese Kawasaki factory worker
-A hitchhiking robot that relied on the kindness of strangers to travel the world and was slain by humans
-Yes. Car accidents are product of human misconduct
-Grace Hoper. She wrote it in her spare time
+HitchBOT was a hitchhiking robot that relied on the kindness of strangers to travel the world and was slain by humans
+Self-driving cars are safe. Car accidents are product of human misconduct
+Grace Hoper invented compilers. She wrote it in her spare time
 Python was invented by Guido van Rossum
 Sure. I've never seen him drink water
 I heard an electric can opener
-Salads made with ice-borg lettuce.
+Robots like salads made with ice-borg lettuce.
 I had a byte
 People kept pushing our buttons.
 He says so many foul words they have to bleep everything he says!
@@ -22,7 +22,7 @@ I like electronic and heavy Metal
 GNU is a recursive acronym meaning GNU is Not Unix
 MPEG stands for Moving Picture Experts Group
 SMTP stands for Simple Mail Transport Protocol
-GNU Image Manipulation Program
+GIMP stands for GNU Image Manipulation Program
 São Paulo is the most populous city in Brazil with 12.03 million residents.
 The Brazilian territory is located on the South American continent.
 On September 7, 1822, Brazil's independence was declared.
@@ -32,22 +32,19 @@ Macapá is the only Brazilian capital crossed by the Equator line.
 Brazil is a country with continental dimensions, in all it has four time zones.
 The Lacerda Elevator is a public urban elevator located in Salvador, Brazil.
 The Caatinga, characterized by its dry, desert habitat is the only one of Brazil's biomes found exclusively within the country.
-Belo Horizonte
-Sergipe
-São Paulo and Rio de Janeiro
-Brası́lia
-Ilha de vera Cruz
-Bahia
-Amazonas
-Rio de Janeiro
-Tocantins
-Pernambuco
-Fortaleza
-Porto alegre
-Natal
-Brası́lia
-Brası́lia
-Recife
-Belém
-Belém
-Belém
+Papulha lake is located in Belo Horizonte
+Sergipe is the smallest Brazillian state.
+São Paulo and Rio de Janeiro are capitals with the same name of their states.
+The Itamaraty Palace is located in Brası́lia
+Ilha de vera Cruz was the first name given to Brazil
+Acarajé is a typiical found in Bahia
+Pico da Neblina is located in the Amazonas state
+Pão de Açucar is located in Rio de Janeiro
+Tocantins is the newest brazilian state
+Pernambuco is the oldest brazilian state
+The capital of Ceará is Fortaleza
+The capital of Rio Grande do Sul is Porto alegre
+The capital of Rio Grande do Norte is Natal
+Brası́lia is the capital of Brazil
+Recife is the capital of Pernambuco
+Belém is the capital of Pará
